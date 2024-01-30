@@ -1,0 +1,158 @@
+.SearchCon button{
+    background-color:rgb(13, 128, 216);
+}
+
+.Profile button{
+    position:relative;
+    margin-top: 0%;;
+    margin-left: 85%;
+}
+
+.DashPar{
+    display: grid;
+    justify-content: space-around;
+    grid-template-columns: auto auto;
+    gap: 3rem;
+}
+
+.TopCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    grid-column: 1/3;
+}
+
+.EarnCard{
+    border: 5px solid blue;
+    padding: 5px;
+    height: 80px;
+    width: 200px;
+    margin: 5px;   
+}
+
+.EarnAnnCard{
+    border: 5px solid green;
+    padding: 5px;
+    height: 80px;
+    width: 200px;
+    margin: 5px;
+}
+.TaskCard{
+    border: 5px solid red;
+    padding: 5px;
+    height: 80px;
+    width: 200px;
+    margin: 5px;
+     
+}
+.PendCard{
+    border: 5px solid rgb(153, 74, 134);
+    padding: 5px;
+    height: 80px;
+    width: 200px;
+    margin: 5px;
+}
+
+.DevelopCont{
+    margin: 5px;
+    border: 2px solid rgb(50, 21, 103);
+    background-color: rgb(255, 242, 242);
+    height: auto;
+    width: auto;
+    overflow: auto;
+    grid-column: 1/3;
+}
+
+.IlluCont img{
+    width: 15rem;
+    height: 10rem;
+}
+
+.IlluCont{
+    margin: 5px;
+    border: 2px solid rgb(70, 32, 32);
+    background-color: rgb(245, 235, 235);
+    height: auto;
+    width: auto;
+    overflow: auto;
+    padding: 3px;
+}
+
+.colorCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.Primary{
+    border: 2px solid dodgerblue;
+    margin: 2px;
+    padding: 2px;
+    background-color: dodgerblue;
+    width: 300px;
+    height: 80px;
+}
+
+.Success{
+    border: 2px solid rgb(30, 144, 30);
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(30, 144, 30);
+    width: 300px;
+    height: 80px;
+}
+
+.Info{
+    border: 2px solid rgb(76, 162, 212);
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(76, 162, 212);
+    width: 300px;
+    height: 80px;
+}
+
+.Warning{
+    border: 2px solid yellow;
+    margin: 2px;
+    padding: 2px;
+    background-color: yellow;
+    width: 300px;
+    height: 80px;
+}
+
+.Danger{
+    border: 2px solid crimson;
+    margin: 2px;
+    padding: 2px;
+    background-color: crimson;
+    width: 300px;
+    height: 80px;
+}
+
+.Secondary{
+    border: 2px solid lightgray;
+    margin: 2px;
+    padding: 2px;
+    background-color: lightgrey;
+    width: 300px;
+    height: 80px;
+}
+
+.Light{
+    border: 2px solid rgb(242, 238, 238);
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(254, 254, 253);
+    width: 300px;
+    height: 80px;
+}
+
+.Dark{
+    border: 2px solid rgb(32, 32, 32);
+    margin: 2px;
+    padding: 2px;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    width: 300px;
+    height: 80px;
+}

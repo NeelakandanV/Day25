@@ -1,0 +1,37 @@
+.BorderMainPar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 2px;
+    padding: 2px;
+}
+
+.SideBorder{
+    margin: 2px;
+    padding: 5px;
+    border: 2px;
+    height: fit-content;
+    width: 32rem;
+}
+
+.SideBorder p{
+    margin: 5px;
+    border: 2px solid rgb(124, 119, 119);
+    padding: 30px;
+    text-align: center;
+}
+
+.BottomBorder{
+    margin: 2px;
+    padding: 5px;
+    border: 2px;
+    height: fit-content;
+    width: 32rem;
+}
+
+.BottomBorder p{
+    margin: 7px;
+    border: 2px solid rgb(124, 119, 119);
+    padding: 30px;
+    text-align: center;
+}

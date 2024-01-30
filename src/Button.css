@@ -1,0 +1,66 @@
+.BtnMainParent{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px;
+    margin: 2px;
+    padding: 2px;
+    gap: 5rem;
+}
+
+.circleBtns{
+    border: 2px solid whitesmoke;
+    margin: 2px;
+    padding: 5px;
+    width: 34rem;
+}
+
+.circleBtns h4{
+    color: darkblue;
+}
+
+.circleBtnHead p{
+    color: crimson;
+}
+
+.circleBtnHead a{
+    margin: 2px;
+}
+
+.SplitButtons{
+    border: 2px solid whitesmoke;
+    margin: 2px;
+    padding: 5px;
+    width: 32rem;
+}
+
+.SplitButtons h4{
+    color: darkblue;
+}
+
+.SplitButtons button{
+    margin: 3px;
+}
+
+.BtnIcon{
+    background-color: rgb(52, 51, 51);
+}
+
+.BrandButtons{
+    border: 2px solid whitesmoke;
+    margin: 2px;
+    padding: 5px;
+    width: fit-content;
+}
+
+.BrandButtons h4{
+    color: darkblue;
+}
+
+.BrandButtons button{
+    display: block;
+    width: 80%;
+}
+
+
+

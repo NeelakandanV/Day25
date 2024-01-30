@@ -1,0 +1,20 @@
+.errMainPar{
+    display: grid;
+    margin: 2% 10% auto 10%;
+    text-align: center;
+    justify-content: space-around;
+}
+
+.errCon{
+    margin: 25px;
+    padding: 10px;
+}
+
+.errCon h1{
+    font-size: 150px;
+}
+
+.divertCon{
+    margin: 25px;
+    padding: 10px;
+}

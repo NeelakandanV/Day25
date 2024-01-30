@@ -1,0 +1,28 @@
+.AnimeMainPar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 3px;
+}
+
+.AnimeMainPar h4{
+    color: darkblue;
+    padding: 4px;
+    background-color: lightgray;
+}
+
+.GrowIn{
+    margin: 6px;
+    padding: 4px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}
+
+.FadeIn{
+    margin: 6px;
+    padding: 4px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}

@@ -1,0 +1,50 @@
+.ColorMainPar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 3px;
+}
+
+.ColorMainPar h4{
+    color: darkblue;
+    padding-bottom: 15px;
+    border-bottom: 2px solid black;
+}
+
+.CustomText{
+    margin: 2px;
+    border: 2px solid whitesmoke;
+    padding: 4px;
+    background-color: rgb(227, 227, 227);
+    color:rgb(79, 74, 74);
+    height: fit-content;
+}
+
+.Darkgr{
+    background-color: rgb(175, 172, 172);
+}
+
+.CustomBackground{
+    margin: 2px;
+    border: 2px solid whitesmoke;
+    padding: 4px;
+}
+
+.CustomBackground p{
+    height: 5rem;
+    width: 20em;
+    padding: 20px;
+}
+
+.CustomGrayScale{
+    margin: 2px;
+    border: 2px solid whitesmoke;
+    padding: 4px;
+    height: fit-content;
+}
+
+.CustomFont{
+    background-color: rgb(227, 224, 224);
+    margin: 2px;
+    padding: 4px;
+}

@@ -1,0 +1,45 @@
+.CardMainComp{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.CardMainComp h4{
+    color: darkblue;
+    padding-bottom: 5px;
+    border-bottom: 2px solid black;
+    background-color: lightgrey;
+}
+
+
+.DefaultCard{
+    margin: 12px;
+    width: 45%;
+    border: 2px solid whitesmoke;
+    background-color: beige;
+    height: fit-content;
+}
+
+.DropdownCard{
+    margin: 12px;
+    width: 45%;
+    border: 2px solid whitesmoke;
+    background-color: beige;
+    height: fit-content;
+}
+
+.BasicCard{
+    margin: 12px;
+    width: 45%;
+    border: 2px solid whitesmoke;
+    background-color: beige;
+    height: fit-content;
+}
+
+.CollapseCard{
+    margin: 12px;
+    width: 45%;
+    border: 2px solid whitesmoke;
+    background-color: beige;
+    height: fit-content;
+}

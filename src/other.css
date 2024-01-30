@@ -1,0 +1,64 @@
+.OtherMainPar{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+}
+
+.OtherMainPar h4{
+    color: darkblue;
+    padding: 4px;
+    background-color: lightgray;
+}
+
+.Overflow{
+    margin: 6px;
+    padding: 4px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}
+
+.Rotation{
+    margin: 6px;
+    padding: 15px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}
+
+.rot45{
+    border: 2px solid dodgerblue;
+    margin-left: 40% ;
+    padding: 20px;
+    text-align: center;
+    width: 5rem;
+    height: fit-content;
+    transform: rotate(45deg);
+}
+
+.rot135{
+    border: 2px solid dodgerblue;
+    margin-left: 40% ;
+    padding: 20px;
+    text-align: center;
+    width: 5rem;
+    height: fit-content;
+    transform: rotate(135deg);
+}
+
+.Progress{
+    margin: 6px;
+    padding: 4px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}
+
+.DropNoArr{
+    margin: 6px;
+    padding: 4px;
+    border: 2px solid grey;
+    height: fit-content;
+    width: 32rem;
+}
